@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cypher-blog/static/css/main.8905af8d.css",
+    "main.js": "/cypher-blog/static/js/main.49209782.js",
+    "static/js/787.c313a1f2.chunk.js": "/cypher-blog/static/js/787.c313a1f2.chunk.js",
+    "index.html": "/cypher-blog/index.html",
+    "main.8905af8d.css.map": "/cypher-blog/static/css/main.8905af8d.css.map",
+    "main.49209782.js.map": "/cypher-blog/static/js/main.49209782.js.map",
+    "787.c313a1f2.chunk.js.map": "/cypher-blog/static/js/787.c313a1f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8905af8d.css",
+    "static/js/main.49209782.js"
+  ]
+}
